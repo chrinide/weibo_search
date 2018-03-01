@@ -1,5 +1,7 @@
 # coding: utf-8
 # 17-10-5, created by tuitu
+
+# 主模块
 import io
 import os
 import re

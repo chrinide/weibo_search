@@ -1,6 +1,7 @@
 # coding: utf-8
 # 17-10-6, created by tuitu
 
+# 验证码图片降噪
 from PIL import Image,ImageDraw
 
 from PIL import Image,ImageDraw,ImageChops
